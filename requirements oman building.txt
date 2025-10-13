@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly==5.22.0 
+openpyxl  # Required for reading Excel files
+pyarrow   # Required for reading Parquet/Feather files efficiently
+duckdb    # Required for the hyper-optimized data processing
